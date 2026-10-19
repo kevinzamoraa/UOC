@@ -1,0 +1,472 @@
+1
+00:00:03,900 --> 00:00:04,520
+Hello!
+
+2
+00:00:04,720 --> 00:00:07,240
+This video covers
+the first theme
+
+3
+00:00:07,240 --> 00:00:09,360
+of the course,
+that is, an
+
+4
+00:00:09,360 --> 00:00:11,400
+introduction to
+information systems.
+
+5
+00:00:11,400 --> 00:00:13,720
+We provide an
+overview of the most
+
+6
+00:00:13,720 --> 00:00:16,600
+important topics of this
+first theme, starting
+
+7
+00:00:16,600 --> 00:00:19,000
+with, what is
+information science?
+
+8
+00:00:20,140 --> 00:00:22,740
+Information science
+is a discipline that
+
+9
+00:00:22,740 --> 00:00:25,060
+dates back much further
+than the computer
+
+10
+00:00:25,060 --> 00:00:28,320
+era, which emerged
+after World War II,
+
+11
+00:00:28,320 --> 00:00:30,580
+and gained significant
+momentum with the
+
+12
+00:00:30,580 --> 00:00:32,550
+introduction of the Internet. 
+
+13
+00:00:33,780 --> 00:00:35,220
+However, in ancient times
+information
+
+14
+00:00:35,220 --> 00:00:37,180
+science already existed,
+
+15
+00:00:37,360 --> 00:00:39,340
+primarily focusing
+on managing
+
+16
+00:00:39,340 --> 00:00:41,740
+information in
+libraries, such as
+
+17
+00:00:41,740 --> 00:00:43,820
+the first clay
+tablets and later
+
+18
+00:00:43,820 --> 00:00:46,240
+papyrus stored in
+temple libraries.
+
+19
+00:00:46,880 --> 00:00:50,080
+The form of information,
+analogue or digital,
+
+20
+00:00:50,260 --> 00:00:52,940
+the need or possibilities
+to manage this
+
+21
+00:00:52,940 --> 00:00:55,920
+information have obviously
+evolved over time.
+
+22
+00:00:56,500 --> 00:00:59,780
+In our information
+or knowledge society,
+
+23
+00:00:59,880 --> 00:01:02,580
+information science
+mainly deals with
+
+24
+00:01:02,580 --> 00:01:05,300
+digital information
+that is collected,
+
+25
+00:01:05,320 --> 00:01:08,620
+processed, edited,
+stored and distributed
+
+26
+00:01:08,620 --> 00:01:10,920
+with the help of
+information systems.
+
+27
+00:01:12,280 --> 00:01:14,840
+Before discussing
+information systems, we
+
+28
+00:01:14,840 --> 00:01:17,580
+first need to understand
+what information is
+
+29
+00:01:17,580 --> 00:01:21,060
+and how it is related
+to data and knowledge.
+
+30
+00:01:22,460 --> 00:01:24,800
+Data can be
+basically defined
+
+31
+00:01:24,800 --> 00:01:26,680
+as a set of
+facts or units.
+
+32
+00:01:26,820 --> 00:01:28,760
+This data can either be
+
+33
+00:01:28,760 --> 00:01:30,560
+numerical or textual.
+
+34
+00:01:31,660 --> 00:01:34,300
+Information refers
+to data that has
+
+35
+00:01:34,300 --> 00:01:36,700
+been arranged in
+a way so that it
+
+36
+00:01:36,700 --> 00:01:39,140
+is meaningful in a
+specific context.
+
+37
+00:01:40,170 --> 00:01:41,300
+Knowledge, on the other
+
+38
+00:01:41,300 --> 00:01:43,020
+hand, is harder
+to define.
+
+39
+00:01:43,440 --> 00:01:45,820
+Some scholars
+say that data
+
+40
+00:01:45,820 --> 00:01:47,260
+and information
+are needed to
+
+41
+00:01:47,260 --> 00:01:48,440
+arrive at knowledge.
+
+42
+00:01:48,640 --> 00:01:50,640
+But others
+maintain that to
+
+43
+00:01:50,640 --> 00:01:52,560
+collect data
+and turn it into
+
+44
+00:01:52,560 --> 00:01:54,620
+information,
+knowledge is needed.
+
+45
+00:01:54,840 --> 00:01:55,880
+Knowledge gained through
+
+46
+00:01:55,880 --> 00:01:57,620
+experience in
+everyday life.
+
+47
+00:01:59,680 --> 00:02:01,280
+Let's now move on to
+
+48
+00:02:01,280 --> 00:02:02,720
+the core of this theme.
+
+49
+00:02:03,220 --> 00:02:05,160
+What is an
+information system?
+
+50
+00:02:06,120 --> 00:02:09,200
+An information system
+can be defined as a
+
+51
+00:02:09,200 --> 00:02:11,900
+set of interrelated
+elements or components
+
+52
+00:02:11,900 --> 00:02:16,020
+that collect or input,
+manipulate or process,
+
+53
+00:02:16,500 --> 00:02:19,440
+store and disseminate
+data and information
+
+54
+00:02:19,440 --> 00:02:22,380
+and provide a
+corrective reaction or
+
+55
+00:02:22,380 --> 00:02:25,100
+feedback mechanism
+to meet an objective.
+
+56
+00:02:26,480 --> 00:02:28,760
+Information
+systems can operate
+
+57
+00:02:28,760 --> 00:02:30,720
+either manually
+or digitally.
+
+58
+00:02:30,920 --> 00:02:34,040
+We obviously focus on
+digital or computer-based
+
+59
+00:02:34,040 --> 00:02:37,300
+information systems. 
+Hence, the set
+
+60
+00:02:37,300 --> 00:02:40,220
+of components we
+refer to are hardware,
+
+61
+00:02:40,220 --> 00:02:44,260
+software, databases,
+telecommunications,
+
+62
+00:02:44,260 --> 00:02:47,080
+people and procedures
+that are configured
+
+63
+00:02:47,080 --> 00:02:49,980
+to collect,
+manipulate, store and
+
+64
+00:02:49,980 --> 00:02:52,440
+process data into
+meaningful information.
+
+65
+00:02:52,940 --> 00:02:55,580
+We have defined
+information systems as
+
+66
+00:02:55,580 --> 00:02:57,500
+more than technology,
+because in this
+
+67
+00:02:57,500 --> 00:02:59,740
+course we take a 
+socio-technical view on
+
+68
+00:02:59,740 --> 00:03:03,120
+information systems.
+What this means is
+
+69
+00:03:03,120 --> 00:03:05,360
+that, from a
+socio-technical perspective,
+
+70
+00:03:05,840 --> 00:03:08,040
+information systems
+will perform
+
+71
+00:03:08,040 --> 00:03:11,180
+optimally when both
+the technology and the
+
+72
+00:03:11,180 --> 00:03:13,620
+organization adjust
+to one another
+
+73
+00:03:13,620 --> 00:03:16,500
+until a satisfactory
+fit is obtained.
+
+74
+00:03:17,000 --> 00:03:19,560
+This means that during
+the implementation
+
+75
+00:03:19,560 --> 00:03:22,680
+of a new information
+system, both the
+
+76
+00:03:22,680 --> 00:03:24,940
+technology design and
+the organizational
+
+77
+00:03:24,940 --> 00:03:28,060
+processes may need to be
+adapted to one another
+
+78
+00:03:28,060 --> 00:03:31,060
+to ensure the system
+effectiveness.
+
+79
+00:03:31,060 --> 00:03:32,900
+In this course you
+will learn about the
+
+80
+00:03:32,900 --> 00:03:35,420
+different types of
+information systems used
+
+81
+00:03:35,420 --> 00:03:38,660
+within and between
+organizations, as well as
+
+82
+00:03:38,660 --> 00:03:41,320
+systems we use in
+our everyday lives.
+
+83
+00:03:42,460 --> 00:03:45,520
+Table 1.4 of the
+textbook provides a
+
+84
+00:03:45,520 --> 00:03:47,980
+list of examples
+of systems that we
+
+85
+00:03:47,980 --> 00:03:49,580
+will discuss
+throughout the course.
+
+86
+00:03:50,120 --> 00:03:52,240
+An additional column
+has been added
+
+87
+00:03:52,240 --> 00:03:54,820
+to the table to
+indicate the chapter
+
+88
+00:03:54,820 --> 00:03:57,140
+in which each
+system is explained.
+
+89
+00:03:58,460 --> 00:04:00,960
+Finally, this
+first theme of the
+
+90
+00:04:00,960 --> 00:04:03,080
+course also covers
+the importance
+
+91
+00:04:03,080 --> 00:04:05,480
+of information systems
+for organizations
+
+92
+00:04:05,480 --> 00:04:08,080
+and for society
+in general.
+
+93
+00:04:08,400 --> 00:04:10,060
+Think about the systems
+
+94
+00:04:10,060 --> 00:04:11,640
+you use to make payments,
+
+95
+00:04:11,640 --> 00:04:13,900
+perform your work or
+connect with friends
+
+96
+00:04:13,900 --> 00:04:16,220
+and family every
+day. How different
+
+97
+00:04:16,220 --> 00:04:18,360
+would your life be
+without these systems?
