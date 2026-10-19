@@ -1,0 +1,335 @@
+1
+00:00:03,930 --> 00:00:06,090
+This video covers
+the third theme of
+
+2
+00:00:06,090 --> 00:00:08,730
+the course, namely
+Ethics and Privacy.
+
+3
+00:00:09,590 --> 00:00:11,850
+In previous themes,
+we have seen how
+
+4
+00:00:11,850 --> 00:00:14,430
+information systems
+can help organizations
+
+5
+00:00:14,430 --> 00:00:17,370
+realize competitive
+advantage and
+
+6
+00:00:17,370 --> 00:00:19,450
+perform processes
+more efficiently.
+
+7
+00:00:19,850 --> 00:00:20,970
+However,
+
+8
+00:00:21,290 --> 00:00:23,390
+information systems
+can also have a
+
+9
+00:00:23,390 --> 00:00:26,490
+negative impact on
+stakeholders and society.
+
+10
+00:00:26,730 --> 00:00:28,590
+That is, the use
+of information
+
+11
+00:00:28,590 --> 00:00:31,670
+technology raises
+ethical issues.
+
+12
+00:00:32,790 --> 00:00:36,010
+Ethics refers to the
+principles of right
+
+13
+00:00:36,010 --> 00:00:38,390
+and wrong that
+individuals use to
+
+14
+00:00:38,390 --> 00:00:40,750
+make choices that
+guide their behavior.
+
+15
+00:00:41,420 --> 00:00:43,790
+There are many
+principles that can
+
+16
+00:00:43,790 --> 00:00:46,090
+help in making
+ethical decisions.
+
+17
+00:00:46,330 --> 00:00:49,450
+In this course, we
+discuss five general
+
+18
+00:00:49,450 --> 00:00:52,670
+principles or approaches
+for deciding on
+
+19
+00:00:52,670 --> 00:00:56,690
+ethical issues. The
+utilitarian approach,
+
+20
+00:00:56,830 --> 00:00:59,750
+the rights approach,
+the fairness
+
+21
+00:00:59,750 --> 00:01:02,650
+approach, the common
+good approach,
+
+22
+00:01:02,650 --> 00:01:05,030
+and the deontology
+approach.
+
+23
+00:01:05,630 --> 00:01:09,330
+The most well-known
+ethical issue surrounding
+
+24
+00:01:09,330 --> 00:01:12,410
+information systems
+concerns privacy.
+
+25
+00:01:13,270 --> 00:01:16,090
+Privacy refers to
+the right to be left
+
+26
+00:01:16,090 --> 00:01:18,550
+alone and to be
+free of unreasonable
+
+27
+00:01:18,550 --> 00:01:22,130
+personal intrusions.
+More specifically,
+
+28
+00:01:22,330 --> 00:01:25,330
+when we talk about
+privacy in relation
+
+29
+00:01:25,330 --> 00:01:28,390
+to information systems,
+we mean the right
+
+30
+00:01:28,390 --> 00:01:31,270
+to determine when
+and to what extent
+
+31
+00:01:31,270 --> 00:01:35,010
+information about us
+can be collected and
+
+32
+00:01:35,010 --> 00:01:37,070
+shared with others
+through technology.
+
+33
+00:01:37,970 --> 00:01:41,370
+Other ethical issues
+include the impact of
+
+34
+00:01:41,370 --> 00:01:43,990
+information technology
+on human dignity,
+
+35
+00:01:44,170 --> 00:01:45,250
+security,
+
+36
+00:01:45,490 --> 00:01:46,510
+autonomy,
+
+37
+00:01:46,650 --> 00:01:49,330
+justice and the
+balance of power.
+
+38
+00:01:50,110 --> 00:01:52,870
+You will need to read
+the article by Roy
+
+39
+00:01:52,870 --> 00:01:55,410
+Akers et al. to learn
+about these issues.
+
+40
+00:01:55,670 --> 00:01:58,010
+Be aware that
+this article is
+
+41
+00:01:58,010 --> 00:01:59,500
+part of the
+study materials.
+
+42
+00:02:01,330 --> 00:02:04,790
+Finally, let me
+remind you that during
+
+43
+00:02:04,790 --> 00:02:06,830
+the Bachelor,
+you will develop
+
+44
+00:02:06,830 --> 00:02:09,430
+important professional
+competencies.
+
+45
+00:02:09,650 --> 00:02:12,290
+In this course, you
+will start developing
+
+46
+00:02:12,290 --> 00:02:14,930
+two of these
+competencies, namely
+
+47
+00:02:14,930 --> 00:02:17,770
+the competence to
+present in a manner
+
+48
+00:02:17,770 --> 00:02:19,970
+suitable for the
+target audience,
+
+49
+00:02:20,110 --> 00:02:22,530
+and the competence
+to apply information
+
+50
+00:02:22,530 --> 00:02:24,810
+technology in a
+professional setting.
+
+51
+00:02:25,330 --> 00:02:27,950
+You will develop
+these competencies
+
+52
+00:02:27,950 --> 00:02:29,410
+in different assignments.
+
+53
+00:02:29,410 --> 00:02:32,190
+By analysing
+practical cases,
+
+54
+00:02:32,190 --> 00:02:34,790
+proposing the most
+suitable solutions to
+
+55
+00:02:34,790 --> 00:02:37,150
+case problems,
+and writing well
+
+56
+00:02:37,150 --> 00:02:39,530
+-argued answers to
+these assignments.
+
+57
+00:02:40,170 --> 00:02:43,030
+As part of the
+theme on ethics and
+
+58
+00:02:43,030 --> 00:02:45,090
+privacy, you will
+practice these
+
+59
+00:02:45,090 --> 00:02:47,290
+competencies in
+two assignments.
+
+60
+00:02:47,650 --> 00:02:51,470
+One in section
+3.2 and another
+
+61
+00:02:51,470 --> 00:02:53,470
+as part of
+your self-test.
+
+62
+00:02:54,130 --> 00:02:56,590
+Read first the
+rubric and the
+
+63
+00:02:56,590 --> 00:02:58,530
+explanation on
+how to approach
+
+64
+00:02:58,530 --> 00:03:00,090
+these types of
+assignments.
+
+65
+00:03:00,630 --> 00:03:02,690
+You can find all
+these documents
+
+66
+00:03:02,690 --> 00:03:04,750
+in the digital
+course environment.
+
+67
+00:03:05,250 --> 00:03:07,970
+And do not hesitate
+to contact us if you
+
+68
+00:03:07,970 --> 00:03:09,990
+have any questions
+about the assignments.
