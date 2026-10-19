@@ -1,0 +1,346 @@
+1
+00:00:03,830 --> 00:00:06,570
+This video covers the
+second theme of the
+
+2
+00:00:06,570 --> 00:00:10,110
+course, organizational
+strategy, competitive
+
+3
+00:00:10,110 --> 00:00:12,550
+advantage and
+information systems.
+
+4
+00:00:12,870 --> 00:00:15,170
+This theme deals
+with the role
+
+5
+00:00:15,170 --> 00:00:16,670
+of information systems in
+
+6
+00:00:16,670 --> 00:00:19,150
+realizing
+organizational strategy
+
+7
+00:00:19,150 --> 00:00:21,590
+and achieving
+competitive advantage.
+
+8
+00:00:21,970 --> 00:00:24,410
+Let's first
+define a strategy
+
+9
+00:00:24,410 --> 00:00:26,110
+and competitive
+advantage.
+
+10
+00:00:26,810 --> 00:00:29,690
+A strategy refers
+to the principles
+
+11
+00:00:29,690 --> 00:00:32,590
+and general direction
+set out by an
+
+12
+00:00:32,590 --> 00:00:35,190
+organization to a
+achieve its goals.
+
+13
+00:00:35,310 --> 00:00:38,430
+A strategy
+indicates the way in
+
+14
+00:00:38,430 --> 00:00:40,570
+which an
+organization wants to
+
+15
+00:00:40,570 --> 00:00:42,730
+realize competitive
+advantage.
+
+16
+00:00:43,630 --> 00:00:46,870
+Competitive advantage
+refers to all the
+
+17
+00:00:46,870 --> 00:00:50,090
+organizational aspects
+that give an organization
+
+18
+00:00:50,090 --> 00:00:53,110
+an edge over its
+competitors. For
+
+19
+00:00:53,110 --> 00:00:56,590
+example, lower costs,
+higher quality products
+
+20
+00:00:56,590 --> 00:00:59,370
+and services, or
+a higher speed in
+
+21
+00:00:59,370 --> 00:01:02,190
+offering new products
+or delivering services.
+
+22
+00:01:02,590 --> 00:01:05,310
+In this theme we
+will look into the
+
+23
+00:01:05,310 --> 00:01:07,510
+contribution of
+information systems
+
+24
+00:01:07,510 --> 00:01:10,630
+to organizational
+strategy and how
+
+25
+00:01:10,630 --> 00:01:12,710
+it affects
+competitive advantage.
+
+26
+00:01:13,410 --> 00:01:16,370
+To understand how
+information systems
+
+27
+00:01:16,370 --> 00:01:18,670
+affect competitive
+advantage we
+
+28
+00:01:18,670 --> 00:01:20,270
+look into the
+different business
+
+29
+00:01:20,270 --> 00:01:23,270
+processes that make
+up an organization.
+
+30
+00:01:24,570 --> 00:01:27,150
+A business process
+is an ongoing
+
+31
+00:01:27,150 --> 00:01:29,170
+collection of
+related activities
+
+32
+00:01:29,170 --> 00:01:31,990
+that create value
+for the organization,
+
+33
+00:01:31,990 --> 00:01:34,010
+its partners
+and customers.
+
+34
+00:01:34,730 --> 00:01:37,850
+Business processes
+can create competitive
+
+35
+00:01:37,850 --> 00:01:41,210
+advantage if they enable
+the organization to
+
+36
+00:01:41,210 --> 00:01:43,650
+perform them better
+than its competitors.
+
+37
+00:01:44,330 --> 00:01:46,570
+In this theme
+we learn about
+
+38
+00:01:46,570 --> 00:01:48,230
+business process
+improvement,
+
+39
+00:01:48,370 --> 00:01:50,470
+business process
+re-engineering
+
+40
+00:01:50,470 --> 00:01:52,490
+and business
+process management.
+
+41
+00:01:53,230 --> 00:01:56,410
+When we examine a
+business process and
+
+42
+00:01:56,410 --> 00:01:59,250
+determine how it could
+be improve, reconstruct,
+
+43
+00:01:59,470 --> 00:02:02,110
+or better manage,
+we also consider
+
+44
+00:02:02,110 --> 00:02:04,090
+the role of
+information systems.
+
+45
+00:02:04,980 --> 00:02:07,590
+And remember from
+previous themes that
+
+46
+00:02:07,590 --> 00:02:11,050
+information systems
+involve hardware, software,
+
+47
+00:02:11,270 --> 00:02:12,310
+databases,
+
+48
+00:02:12,730 --> 00:02:15,370
+telecommunications,
+people, and procedures.
+
+49
+00:02:16,070 --> 00:02:18,750
+The management of
+business processes,
+
+50
+00:02:18,750 --> 00:02:20,550
+the improvement
+or reconstruction,
+
+51
+00:02:20,590 --> 00:02:22,250
+are not without
+challenges.
+
+52
+00:02:22,970 --> 00:02:25,890
+An organization has
+to deal with market
+
+53
+00:02:25,890 --> 00:02:28,190
+pressures, pressures,
+technology pressures,
+
+54
+00:02:28,330 --> 00:02:30,790
+social, political
+and legal pressures.
+
+55
+00:02:31,690 --> 00:02:34,650
+We also zoom into
+the five main
+
+56
+00:02:34,650 --> 00:02:36,330
+forces that can affect an
+
+57
+00:02:36,330 --> 00:02:38,490
+organisation's
+competitiveness.
+
+58
+00:02:38,730 --> 00:02:40,810
+First, the threat of
+
+59
+00:02:40,810 --> 00:02:42,430
+entry of new competitors.
+
+60
+00:02:42,770 --> 00:02:43,810
+Second,
+
+61
+00:02:43,950 --> 00:02:46,370
+the bargaining
+power of suppliers.
+
+62
+00:02:47,130 --> 00:02:48,010
+Third,
+
+63
+00:02:48,130 --> 00:02:50,450
+the bargaining
+power of customers.
+
+64
+00:02:50,870 --> 00:02:53,610
+Fourth, the threat of
+substitute products
+
+65
+00:02:53,610 --> 00:02:57,110
+or services. and
+fifth, the rivalry
+
+66
+00:02:57,110 --> 00:02:59,690
+among existing firms
+in the industry.
+
+67
+00:03:00,650 --> 00:03:03,410
+We finalize
+this theme with
+
+68
+00:03:03,410 --> 00:03:04,790
+the topic of alignment,
+
+69
+00:03:04,850 --> 00:03:06,790
+that is the
+integration of
+
+70
+00:03:06,790 --> 00:03:09,050
+technology with
+the organization's
+
+71
+00:03:09,050 --> 00:03:11,110
+strategy, mission
+and goals.
