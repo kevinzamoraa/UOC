@@ -1,0 +1,615 @@
+WEBVTT
+
+81d4a7c5-3df7-43ee-b925-1722f599ec74-0
+00:00:05.600 --> 00:00:11.200
+Again, in chapter 4, we're
+putting in a video 3.1.
+
+910117c0-3432-4ab3-a51e-f590485fc0b8-0
+00:00:11.440 --> 00:00:16.342
+This will mean it should show up
+between video 3 and video 4, but
+
+910117c0-3432-4ab3-a51e-f590485fc0b8-1
+00:00:16.342 --> 00:00:20.800
+I had to do this for ransomware
+because it's gotten so bad.
+
+6a1c5e56-ac6b-4444-b60d-f22f365cc090-0
+00:00:22.640 --> 00:00:27.542
+Ransomware is a form of
+extortion and it's just reached
+
+6a1c5e56-ac6b-4444-b60d-f22f365cc090-1
+00:00:27.542 --> 00:00:31.920
+epidemic proportions and I
+wanted to touch on it.
+
+03016356-affe-4811-a5f2-2d8550518722-0
+00:00:32.320 --> 00:00:34.680
+It's also called digital
+extortion.
+
+abe7e394-5128-4dcf-94aa-cb9bbdf6c3de-0
+00:00:35.040 --> 00:00:39.257
+It's an attack, first of all,
+it's a successful attack where
+
+abe7e394-5128-4dcf-94aa-cb9bbdf6c3de-1
+00:00:39.257 --> 00:00:43.266
+the bad guys penetrate your
+company and they encrypt your
+
+abe7e394-5128-4dcf-94aa-cb9bbdf6c3de-2
+00:00:43.266 --> 00:00:47.000
+data, or they encrypt your
+entire information system.
+
+94335b69-c435-40ce-b6f2-59d5c2c181d5-0
+00:00:47.680 --> 00:00:51.026
+And this is hard encryption,
+guys, which means, and you'll
+
+94335b69-c435-40ce-b6f2-59d5c2c181d5-1
+00:00:51.026 --> 00:00:54.202
+see this more later in the
+chapter, but hard encryption
+
+94335b69-c435-40ce-b6f2-59d5c2c181d5-2
+00:00:54.202 --> 00:00:55.280
+means it takes off.
+
+3664b716-c4cb-4504-ae49-1703dc0ac6c2-0
+00:00:55.480 --> 00:00:58.000
+It would take years to crack it.
+
+0ff838ea-116d-4df1-b974-0cf0f39522fe-0
+00:00:58.680 --> 00:01:04.777
+So once they've encrypted your
+stuff, your data, your systems,
+
+0ff838ea-116d-4df1-b974-0cf0f39522fe-1
+00:01:04.777 --> 00:01:10.681
+they send you a an e-mail, a
+very nice, well written, polite
+
+0ff838ea-116d-4df1-b974-0cf0f39522fe-2
+00:01:10.681 --> 00:01:14.360
+e-mail requiring a ransom in
+Bitcoin.
+
+19e34c75-b5ac-4849-9e15-65287a182bba-0
+00:01:14.360 --> 00:01:18.020
+Usually as a matter of fact,
+they even send you a link to go
+
+19e34c75-b5ac-4849-9e15-65287a182bba-1
+00:01:18.020 --> 00:01:18.200
+to.
+
+fb435859-0d64-4d11-b2ff-dfafef1962c6-0
+00:01:19.360 --> 00:01:23.383
+Unfortunately, these tax attacks
+are growing astronomically
+
+fb435859-0d64-4d11-b2ff-dfafef1962c6-1
+00:01:23.383 --> 00:01:23.920
+quickly.
+
+aab5667b-dd83-45ad-b0fd-1331c8b338fd-0
+00:01:25.520 --> 00:01:30.680
+We lost globally maybe $20
+billion in 2020.
+
+0f79cc3f-8109-4f6c-aa67-f638595cac5f-0
+00:01:31.120 --> 00:01:35.816
+That's an estimate because a lot
+of companies that get hit with
+
+0f79cc3f-8109-4f6c-aa67-f638595cac5f-1
+00:01:35.816 --> 00:01:40.000
+successful ransomware attacks
+don't ever report it well.
+
+2ab6e3b2-080b-465b-9a73-5d2fa01a6a87-0
+00:01:40.640 --> 00:01:44.324
+They're different methods that
+they use, different types of
+
+2ab6e3b2-080b-465b-9a73-5d2fa01a6a87-1
+00:01:44.324 --> 00:01:45.000
+ransomware.
+
+7b344e7f-1598-43e9-9493-5bd20bba4676-0
+00:01:45.480 --> 00:01:49.418
+They're bad guys out there on
+the dark web that put various
+
+7b344e7f-1598-43e9-9493-5bd20bba4676-1
+00:01:49.418 --> 00:01:53.554
+software attacks up there, and
+they sell it as ransomware as a
+
+7b344e7f-1598-43e9-9493-5bd20bba4676-2
+00:01:53.554 --> 00:01:54.080
+service.
+
+60c40b61-eaed-461f-9fea-27dd83932ef3-0
+00:01:54.840 --> 00:01:56.440
+They use this attack.
+
+aba279af-e556-48e4-9110-16e72c53cf07-0
+00:01:58.000 --> 00:02:01.240
+If you're successful, you split
+the ransom with us.
+
+5701e1d3-119d-4168-b57e-516b983eb23e-0
+00:02:02.760 --> 00:02:04.680
+Well, what is that?
+
+fc8055fe-309a-4155-88a1-e3b530339695-0
+00:02:04.680 --> 00:02:07.240
+The Airbnb or the Uber or
+ransomware?
+
+2518f107-f782-468b-8ff5-1e09771d66fa-0
+00:02:08.080 --> 00:02:10.720
+That's how bad it is doxing.
+
+cac3b68a-6fd3-4285-8bd6-d42a5b3d3eaf-0
+00:02:11.520 --> 00:02:14.280
+This is really unfortunate.
+
+60777f3f-ca36-469b-8d7a-af01774c45f0-0
+00:02:14.600 --> 00:02:21.145
+What happens is the attackers
+access your data, OK, they
+
+60777f3f-ca36-469b-8d7a-af01774c45f0-1
+00:02:21.145 --> 00:02:25.280
+encrypt it, they send you the
+note.
+
+5b787517-f225-4512-be23-28ee9fc88e07-0
+00:02:25.600 --> 00:02:30.284
+But you, because you're a smart
+company, have all your data
+
+5b787517-f225-4512-be23-28ee9fc88e07-1
+00:02:30.284 --> 00:02:33.720
+backed up, so you refuse to pay
+the ransom.
+
+42dff425-49b3-42cc-b18f-730919271e3e-0
+00:02:34.400 --> 00:02:38.929
+You go ahead and start restoring
+your systems after you clear the
+
+42dff425-49b3-42cc-b18f-730919271e3e-1
+00:02:38.929 --> 00:02:40.920
+attackers out of your system.
+
+03f725ea-05eb-41cd-b8c0-0f644e44bea7-0
+00:02:41.040 --> 00:02:46.260
+And then you get another e-mail
+and it says before you were able
+
+03f725ea-05eb-41cd-b8c0-0f644e44bea7-1
+00:02:46.260 --> 00:02:50.998
+to, you know, shove us out and
+back up and use your backup
+
+03f725ea-05eb-41cd-b8c0-0f644e44bea7-2
+00:02:50.998 --> 00:02:51.400
+data.
+
+af741cf8-b0a0-4432-b523-f755e6455055-0
+00:02:51.680 --> 00:02:52.400
+We did.
+
+3f6b43c4-e9a1-41eb-b682-135f0d452c3e-0
+00:02:52.440 --> 00:02:56.422
+We were able to download a
+little bit of data, you know,
+
+3f6b43c4-e9a1-41eb-b682-135f0d452c3e-1
+00:02:56.422 --> 00:02:57.960
+maybe a few gigabytes.
+
+4f475403-5aea-49eb-9c19-cec093cca513-0
+00:02:58.800 --> 00:03:01.770
+And if you don't pay us a
+ransom, we're going to release
+
+4f475403-5aea-49eb-9c19-cec093cca513-1
+00:03:01.770 --> 00:03:02.760
+that to the public.
+
+302653d6-f200-4cdb-b5b5-ed3f9a0fe1ba-0
+00:03:03.880 --> 00:03:06.754
+Well, if your financial
+institution, if you're a
+
+302653d6-f200-4cdb-b5b5-ed3f9a0fe1ba-1
+00:03:06.754 --> 00:03:09.746
+hospital, if you're a
+university, you really don't
+
+302653d6-f200-4cdb-b5b5-ed3f9a0fe1ba-2
+00:03:09.746 --> 00:03:10.920
+want that to happen.
+
+add262b5-6abc-41cd-b474-890e7b3ed94b-0
+00:03:10.920 --> 00:03:12.240
+That's called doxing.
+
+e45e1c34-d2a2-4c47-bcdb-ede9e55ec419-0
+00:03:12.640 --> 00:03:16.684
+So you now you got to decide you
+pay the ransom or not, All
+
+e45e1c34-d2a2-4c47-bcdb-ede9e55ec419-1
+00:03:16.684 --> 00:03:18.640
+right, There's a lot of cost.
+
+8046bb43-e77d-48ce-ab4a-ddfadc35f968-0
+00:03:18.640 --> 00:03:22.742
+Ransomware, clearly the direct
+cost is the payment used to be
+
+8046bb43-e77d-48ce-ab4a-ddfadc35f968-1
+00:03:22.742 --> 00:03:24.000
+there pretty small.
+
+c58b9e4c-5a90-4a96-a74e-1ebac5ea73a1-0
+00:03:24.880 --> 00:03:26.320
+Now they run up in the millions.
+
+b3c51409-0f2e-4228-a01c-9d81e80206a4-0
+00:03:27.320 --> 00:03:28.480
+That's direct cost.
+
+b85ed81a-623b-4621-8dee-e784681035d5-0
+00:03:28.920 --> 00:03:29.840
+Indirect cost.
+
+def1a5ca-1448-4d37-822a-b1b3d2813f95-0
+00:03:30.400 --> 00:03:33.600
+Well, you got to recover your
+files if you've lost them.
+
+63f237db-513d-458a-90d5-4c3421e9ebc0-0
+00:03:34.800 --> 00:03:36.680
+And restoring the systems is
+expensive.
+
+c53bdc88-33e2-43c0-90cf-915994475838-0
+00:03:37.680 --> 00:03:40.652
+You you probably got a business
+interruption going while you
+
+c53bdc88-33e2-43c0-90cf-915994475838-1
+00:03:40.652 --> 00:03:43.040
+figure out do you want to pay
+the ransom or not.
+
+446ff328-4cd5-41df-930b-67dfc40438eb-0
+00:03:43.880 --> 00:03:45.200
+Your reputation goes down.
+
+52fa2d14-7985-4d30-a537-1977ab2a3a1c-0
+00:03:45.200 --> 00:03:49.399
+If it goes public, you could
+have lawsuits from your
+
+52fa2d14-7985-4d30-a537-1977ab2a3a1c-1
+00:03:49.399 --> 00:03:53.440
+customers, your employees, your
+business partners.
+
+478d0f5d-27cf-450a-b313-f70c609d6275-0
+00:03:55.200 --> 00:03:59.748
+You can actually lose your data
+altogether and then you have to
+
+478d0f5d-27cf-450a-b313-f70c609d6275-1
+00:03:59.748 --> 00:04:03.800
+buy additional insurance, which
+is ransomware insurance.
+
+ffb53dfc-4ee8-4ff8-a940-598ca493acb2-0
+00:04:04.760 --> 00:04:07.900
+Then you might have to hire
+outside consultants to help you
+
+ffb53dfc-4ee8-4ff8-a940-598ca493acb2-1
+00:04:07.900 --> 00:04:10.360
+out, you know, to help you clean
+your systems.
+
+f77a417d-1a5e-446c-8324-7552e67bf643-0
+00:04:10.840 --> 00:04:12.320
+It's expensive.
+
+2961c4ca-0ae2-4301-b917-0a3aa478b09c-0
+00:04:14.680 --> 00:04:20.706
+Now the best defense against
+ransomware is user education and
+
+2961c4ca-0ae2-4301-b917-0a3aa478b09c-1
+00:04:20.706 --> 00:04:26.733
+training because the easiest way
+into a system it's through a
+
+2961c4ca-0ae2-4301-b917-0a3aa478b09c-2
+00:04:26.733 --> 00:04:31.399
+compromised employee where they
+make a mistake.
+
+deb81e43-b92e-43e5-8fa5-00c334fb73fb-0
+00:04:32.240 --> 00:04:36.000
+OK, the next thing you can do is
+backup, backup, backup.
+
+f7eecff3-a708-4fbe-a2ce-71c6895f9e69-0
+00:04:37.400 --> 00:04:39.640
+Then you can buy any ransom
+software.
+
+5ac758cd-32fc-44ba-ba68-8051cca4af6e-0
+00:04:39.640 --> 00:04:43.460
+We talked about that in the in
+the chapter you can also utilize
+
+5ac758cd-32fc-44ba-ba68-8051cca4af6e-1
+00:04:43.460 --> 00:04:46.983
+and that's a that's a active
+link there the No more Ransom
+
+5ac758cd-32fc-44ba-ba68-8051cca4af6e-2
+00:04:46.983 --> 00:04:47.640
+initiative.
+
+9f9c2134-3d4b-4026-bf69-393a928a4651-0
+00:04:48.160 --> 00:04:52.252
+This is an initiative who has
+that these people have
+
+9f9c2134-3d4b-4026-bf69-393a928a4651-1
+00:04:52.252 --> 00:04:56.808
+identified various strains of
+ransomware and they have the
+
+9f9c2134-3d4b-4026-bf69-393a928a4651-2
+00:04:56.808 --> 00:04:59.280
+decryption keys on this website.
+
+93c88124-171c-4ddc-b876-20342637e13c-0
+00:04:59.920 --> 00:05:01.920
+They saved a lot of people a lot
+of money.
+
+f0223493-4c04-47c6-b8f8-b25b06a1d31a-0
+00:05:02.280 --> 00:05:04.200
+Unfortunately, they're reactive.
+
+c0f3861a-e8b4-43a6-a812-97f1afa5be86-0
+00:05:05.880 --> 00:05:11.177
+The ransomware hits these folks
+identify it, they download the
+
+c0f3861a-e8b4-43a6-a812-97f1afa5be86-1
+00:05:11.177 --> 00:05:16.643
+digital signatures of the attack
+software and then they download
+
+c0f3861a-e8b4-43a6-a812-97f1afa5be86-2
+00:05:16.643 --> 00:05:17.399
+the keys.
+
+0ab40760-5ec6-4286-9015-c88c2a5b2504-0
+00:05:17.880 --> 00:05:19.480
+So, but it's still useful.
+
+04e36fea-3b64-4407-92d1-7af5656283aa-0
+00:05:20.160 --> 00:05:22.280
+We're we're basically in
+desperate straits here.
+
+b6650ea7-5822-4afa-9857-cfdd724cd566-0
+00:05:23.000 --> 00:05:24.040
+These are examples.
+
+f67afcf2-2a61-4bf1-9256-0098056357d7-0
+00:05:24.640 --> 00:05:27.160
+University of Utah got hit with
+a doxing attack.
+
+ede9ba3e-aca0-44bb-84b9-ed42d2a0014f-0
+00:05:27.480 --> 00:05:28.280
+University did.
+
+ce7daba3-035f-4762-9ec6-f16248fa3e21-0
+00:05:28.280 --> 00:05:30.680
+University of Utah did a
+fantastic job.
+
+b78c6801-d8ca-4744-9feb-88c30fd88ba6-0
+00:05:31.000 --> 00:05:34.886
+They were backed up, They only
+lost a tiny amount of data, and
+
+b78c6801-d8ca-4744-9feb-88c30fd88ba6-1
+00:05:34.886 --> 00:05:38.650
+then they got hit again with a
+doxing e-mail that said we're
+
+b78c6801-d8ca-4744-9feb-88c30fd88ba6-2
+00:05:38.650 --> 00:05:42.537
+going to release your student
+data, the data that we stole, if
+
+b78c6801-d8ca-4744-9feb-88c30fd88ba6-3
+00:05:42.537 --> 00:05:44.079
+you don't pay the ransom.
+
+a6530499-6561-4f79-a18c-ecec203f258a-0
+00:05:45.840 --> 00:05:49.240
+Norse Hydro, This is in the
+chapter.
+
+b5ebe005-0f37-460b-b438-88db35d5cb84-0
+00:05:49.240 --> 00:05:51.894
+I put them in there because
+they're the gold standard of how
+
+b5ebe005-0f37-460b-b438-88db35d5cb84-1
+00:05:51.894 --> 00:05:53.200
+to handle a ransomware attack.
+
+488850a8-8a07-4f65-b987-ba77f052400e-0
+00:05:55.040 --> 00:05:58.940
+I won't even get into and watch
+y'all to take a look at it at in
+
+488850a8-8a07-4f65-b987-ba77f052400e-1
+00:05:58.940 --> 00:06:01.520
+the chapter, but they did a
+fantastic job.
+
+af41950c-1981-46ba-b4d3-cf9412502555-0
+00:06:02.280 --> 00:06:03.960
+A city of New Orleans got
+clobbered.
+
+11109fee-81b9-40a7-bef9-1e484652a177-0
+00:06:04.640 --> 00:06:08.551
+The city of Atlanta decided they
+were not going to pay the
+
+11109fee-81b9-40a7-bef9-1e484652a177-1
+00:06:08.551 --> 00:06:12.463
+ransom, which was in the, I
+don't know, less than $100,000
+
+11109fee-81b9-40a7-bef9-1e484652a177-2
+00:06:12.463 --> 00:06:16.441
+if I remember correctly, and
+turn around and have spent $20
+
+11109fee-81b9-40a7-bef9-1e484652a177-3
+00:06:16.441 --> 00:06:19.160
+million trying to restore their
+systems.
+
+17891bb3-2214-4bc9-b1d8-0aa854c4b087-0
+00:06:19.520 --> 00:06:22.870
+What's fascinating is the
+attackers were so deeply into
+
+17891bb3-2214-4bc9-b1d8-0aa854c4b087-1
+00:06:22.870 --> 00:06:26.520
+Atlanta systems is they did not
+take public transit offline.
+
+767824c7-f6ed-45dd-a554-4236ae3959d3-0
+00:06:26.720 --> 00:06:30.669
+They did not take Hartsfield
+International Airport offline,
+
+767824c7-f6ed-45dd-a554-4236ae3959d3-1
+00:06:30.669 --> 00:06:31.920
+etcetera, etcetera.
+
+49674a62-6fe1-4620-8b34-7aa4c208e8d8-0
+00:06:32.280 --> 00:06:34.160
+They took the court system
+offline.
+
+f06c5cc4-7177-47fd-82b3-f38533aaefcf-0
+00:06:34.160 --> 00:06:38.788
+They took the police body Cam
+footage offline and encrypted
+
+f06c5cc4-7177-47fd-82b3-f38533aaefcf-1
+00:06:38.788 --> 00:06:39.560
+that data.
+
+22a465a8-0128-4b3d-b8a4-25d44ebf0a68-0
+00:06:39.960 --> 00:06:41.320
+That was really scary.
+
+0b689cba-cafc-41c4-a676-f05b1df630c1-0
+00:06:41.520 --> 00:06:43.480
+That meant they didn't use a
+shotgun attack.
+
+8ab11924-4e6e-4cbf-9c32-3735ea22b020-0
+00:06:43.480 --> 00:06:46.400
+They used a rifle attack with
+specific targets.
+
+fb9ba232-4f70-4d5b-9e78-5f0cdaaac954-0
+00:06:47.440 --> 00:06:48.800
+So what's the bottom line here?
+
+b5c2ce31-67e2-4b40-8c57-f4ffd9bb7dd0-0
+00:06:49.280 --> 00:06:51.160
+And your company's going to have
+to decide this.
+
+345feb65-4899-4a63-a5d4-c1721c3d15e7-0
+00:06:51.160 --> 00:06:54.360
+And oh by the way, this is a
+user driven decision.
+
+463f0a62-987e-4882-b7ce-3d5de9ff6e69-0
+00:06:55.440 --> 00:06:58.000
+MIS will advise you on this, but
+it's user driven.
+
+8f6f5057-ca1d-4bb4-9f4f-fc5ef48d604b-0
+00:06:58.240 --> 00:06:59.800
+Do you pay an answer or not?
+
+202bd828-53c3-4c21-bf3d-dbe785888042-0
+00:07:01.360 --> 00:07:04.840
+Now the FBI recommends do not
+pay it.
+
+2ef20ad3-c6df-4e99-8b15-f6a042332c37-0
+00:07:05.520 --> 00:07:08.480
+Well, I refer you back to the
+city of Atlanta.
+
+d801f9c1-0fc7-4941-b369-ead920c14833-0
+00:07:09.200 --> 00:07:10.600
+I don't know what the right
+answer is.
+
+e1667b49-e2eb-41af-9fdb-f493570e4513-0
+00:07:10.600 --> 00:07:11.400
+I have no idea.
+
+0e7a4a8a-14ec-40ed-a3be-a73c7f53b985-0
+00:07:11.400 --> 00:07:12.920
+It depends on your organization.
+
+7e79e140-e6b5-4304-909c-e0f6a9108d6e-0
+00:07:13.280 --> 00:07:15.800
+Depends on the criticality of
+the data.
+
+53670bcd-6111-4404-9482-ce133107b972-0
+00:07:17.320 --> 00:07:19.440
+Unfortunately, guys, you're all
+going to run into this.
+
+33bd90ca-7aab-49d5-9848-91d57e849cd1-0
+00:07:21.800 --> 00:07:23.360
+OK, that will.
+
+40e73d65-22d6-430c-99ce-3c05622f8b6b-0
+00:07:24.200 --> 00:07:26.200
+That's about all we need to say
+about ransomware.

@@ -1,0 +1,182 @@
+1
+00:00:03,160 --> 00:00:05,040
+This video is an
+introduction to
+
+2
+00:00:05,040 --> 00:00:07,140
+the topic of
+information security.
+
+3
+00:00:07,640 --> 00:00:10,560
+It is really difficult,
+if not impossible,
+
+4
+00:00:10,560 --> 00:00:14,060
+for an organization
+to secure their data
+
+5
+00:00:14,060 --> 00:00:18,120
+100%. In this theme,
+we look at the threats
+
+6
+00:00:18,120 --> 00:00:20,840
+that information
+systems face and what
+
+7
+00:00:20,840 --> 00:00:23,620
+organizations can do
+to minimize risks.
+
+8
+00:00:24,940 --> 00:00:27,140
+Threats to information
+systems can be
+
+9
+00:00:27,140 --> 00:00:29,920
+classified into two
+general categories,
+
+10
+00:00:29,980 --> 00:00:33,420
+unintentional threats
+and deliberate threats.
+
+11
+00:00:34,640 --> 00:00:36,880
+Unintentional
+threats are acts
+
+12
+00:00:36,880 --> 00:00:39,240
+conducted without
+malicious intent.
+
+13
+00:00:39,360 --> 00:00:42,040
+Human error and
+social engineering
+
+14
+00:00:42,040 --> 00:00:43,940
+constitute unintentional
+
+15
+00:00:43,940 --> 00:00:45,820
+threats to
+information systems.
+
+16
+00:00:47,460 --> 00:00:49,140
+Deliberate
+threats are acts
+
+17
+00:00:49,140 --> 00:00:51,080
+that are carried
+out with malicious
+
+18
+00:00:51,080 --> 00:00:53,220
+intent, such
+as vandalism,
+
+19
+00:00:53,220 --> 00:00:55,240
+information theft and
+
+20
+00:00:55,240 --> 00:00:57,000
+ransomware,
+to name a few.
+
+21
+00:00:57,630 --> 00:01:00,180
+In this course, we
+discuss these different
+
+22
+00:01:00,180 --> 00:01:02,640
+types of threats so
+that you are able
+
+23
+00:01:02,640 --> 00:01:05,880
+to distinguish them.
+Then we focus on what
+
+24
+00:01:05,880 --> 00:01:07,880
+organizations can
+do to protect their
+
+25
+00:01:07,880 --> 00:01:10,140
+information resources
+from these threats.
+
+26
+00:01:10,760 --> 00:01:14,140
+Information security
+refers to all of
+
+27
+00:01:14,140 --> 00:01:16,160
+the processes and
+policies designed
+
+28
+00:01:16,160 --> 00:01:19,140
+to protect an
+organization's information
+
+29
+00:01:19,140 --> 00:01:21,680
+and information
+systems from
+
+30
+00:01:21,680 --> 00:01:25,040
+unauthorized access,
+use, disclosure,
+
+31
+00:01:25,100 --> 00:01:28,480
+disruption, modification,
+or destruction.
+
+32
+00:01:29,320 --> 00:01:32,020
+Furthermore, in
+this theme, we
+
+33
+00:01:32,020 --> 00:01:33,620
+learn about the
+difficulty of
+
+34
+00:01:33,620 --> 00:01:35,820
+securing information
+resources,
+
+35
+00:01:35,880 --> 00:01:38,700
+the strategies to
+deal with information
+
+36
+00:01:38,700 --> 00:01:40,720
+security risk,
+and the different
+
+37
+00:01:40,720 --> 00:01:42,840
+categories of
+security controls.
